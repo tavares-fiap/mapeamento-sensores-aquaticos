@@ -167,8 +167,8 @@ Aqui estão alguns locais específicos do oceano que exigem atenção especial d
 * **Importância:** Abriga uma biodiversidade incrível, fornece proteção costeira e sustenta pescarias.
 * **Ameaças:** A poluição por esgoto, agricultura e turismo causa o branqueamento de corais, doenças e a perda de habitat.
 * **Referências:**
-    * **Artigo:** "Climate change and the Great Barrier Reef: a complex and challenging issue" (Hoegh-Guldberg et al., 2017).
-    * **Livro:** "The Great Barrier Reef: A History" (Hutchings, 2018).
+    * **Artigo:** "Climate change and the Great Barrier Reef" (Great Barrier Reef Foundation).
+    * **Livro:** "The Great Barrier Reef: History, Science, Heritage" (by James Bowen (Author), Margarita Bowen (Author))
 
 ![Grande Barreira de Corais, Austrália](imagens/grande-barreira-de-corais.jpg)
 
@@ -180,8 +180,7 @@ Aqui estão alguns locais específicos do oceano que exigem atenção especial d
 * **Importância:** É um importante berçário para muitas espécies marinhas e sustenta uma indústria pesqueira significativa.
 * **Ameaças:** O derramamento de petróleo, a poluição por esgoto e a agricultura industrial causam a morte de animais marinhos, a contaminação da cadeia alimentar e a perda de habitat.
 * **Referências:**
-    * **Artigo:** "The Deepwater Horizon oil spill: a review of the environmental impacts" (Boesch et al., 2010).
-    * **Livro:** "The Gulf: The True Story of the Oil Spill and the People Who Fought to Save It" (McKibben, 2010).
+    * **Artigo:** "Environmental effects of the Deepwater Horizon oil spill" (National Institute of Health).
 
 ![Golfo do México](imagens/golfo-do-mexico.jpg)
 
@@ -193,8 +192,7 @@ O derramamento de petróleo, a poluição por esgoto e a agricultura industrial 
 * **Importância:** Abriga uma biodiversidade única e sustenta uma indústria pesqueira importante.
 * **Ameaças:** A poluição por esgoto, agricultura e indústria causa a proliferação de algas, a redução da qualidade da água e a perda de habitat.
 * **Referências:**
-    * **Artigo:** "The Baltic Sea: a case study of eutrophication and its management" (HELCOM, 2013).
-    * **Livro:** "The Baltic Sea: A Region Under Stress" (Ojaveer et al., 2014).
+    * **Artigo:** "A Case Study of Baltic Sea Environmental Governance" (Mikael Karlsson , Michael Gilek , and Cecilia Lundberg).
 
 ![Mar Báltico](imagens/mar-baltico.jpg)
 
@@ -206,8 +204,7 @@ A poluição por nutrientes, esgoto e produtos químicos causa a proliferação 
 * **Importância:** Abriga uma biodiversidade rica e é um importante destino turístico.
 * **Ameaças:** A poluição por esgoto, plástico e turismo causa a morte de animais marinhos, a contaminação da cadeia alimentar e a perda de habitat.
 * **Referências:**
-    * **Artigo:** "Plastic pollution in the Mediterranean Sea: sources, impacts and solutions" (Galgani et al., 2015).
-    * **Livro:** "The Mediterranean Sea: A History" (Cavaillé, 2017).
+    * **Artigo:** "Plastics in the Mediterranean" (IUCN).
 
 ![Mar Mediterrâneo](imagens/mar-mediterraneo.jpg)
 
@@ -219,8 +216,7 @@ A poluição por esgoto, agricultura e indústria causa a morte de animais marin
 * **Importância:** É uma importante área de desova para muitas espécies marinhas e sustenta uma população humana significativa.
 * **Ameaças:** A poluição por esgoto, agricultura e indústria causa a morte de animais marinhos, a contaminação da cadeia alimentar e a perda de habitat.
 * **Referências:**
-    * **Artigo:** "Pollution in the Ganges River: a critical review" (Kumar et al., 2017).
-    * **Livro:** "The Ganges: A River of Hope" (Mitra, 2018).
+    * **Artigo:** "The world’s most sacred river—the Ganges—is also one of its dirtiest" (The Economist).
 
 ![Delta do Rio Ganges](imagens/rio-ganges.jpg)
 
@@ -232,8 +228,7 @@ A poluição por esgoto, plástico e turismo causa a morte de animais marinhos, 
 * **Importância:** Sustenta a pesca, o turismo e a segurança alimentar de milhões de pessoas. 
 * **Ameaças:** Desmatamento, agricultura, pesca excessiva, desenvolvimento costeiro e mudanças climáticas.
 * **Referências:**
-    * **Artigo:** "The Coral Triangle: A Global Centre of Marine Biodiversity" (Burke et al., 2011).
-    * **Livro:** "Reefs at Risk Revisited: A Global Analysis of Threats to Coral Reefs" (Burke et al., 2011).
+    * **Artigo:** "The Coral Triangle: The Centre of Marine Biodiversity" (The Marine Diaries).
 
 ![Triângulo dos Corais](imagens/triangulo-de-corais.jpg)
 
@@ -243,8 +238,8 @@ A poluição por esgoto, plástico e turismo causa a morte de animais marinhos, 
 * **Importância:** Centro de pesquisa científica e turismo ecológico, crucial para a conservação da biodiversidade.
 * **Ameaças:** Turismo descontrolado, pesca ilegal, introdução de espécies invasoras, poluição por plástico e mudanças climáticas.
 * **Referências:**
-    * **Artigo:** "The Galapagos Islands: A Unique Natural Laboratory for Conservation" (Ceballos et al., 2015).
-    * **Livro:** "Galapagos: A Natural History" (Harris, 2006).
+    * **Artigo:** "The Galápagos Islands: A Natural Laboratory?" (Environment & Society Portal).
+    * **Livro:** "Galapagos: A Natural History" (by Michael H. Jackson).
 
 ![Arquipélago de Galápagos](imagens/arquipelago-galapagos.jpg)
 
@@ -254,8 +249,7 @@ A poluição por esgoto, plástico e turismo causa a morte de animais marinhos, 
 * **Importância:** Essencial para a segurança alimentar e a economia de países da África Ocidental.
 * **Ameaças:** Pesca excessiva, poluição por petróleo, mudanças climáticas e acidificação dos oceanos.
 * **Referências:**
-    * **Artigo:** "The Benguela Upwelling System: A Review of Its Dynamics, Ecology, and Fisheries" (Shannon et al., 2009).
-    * **Livro:** "The Benguela Current: Large Marine Ecosystem" (Shannon & Pillar, 2002).
+    * **Artigo:** "Benguela Current Marine Ecosystem Sites" (UNESCO).
 
 **Afloramento da Califórnia:**
 
@@ -263,8 +257,7 @@ A poluição por esgoto, plástico e turismo causa a morte de animais marinhos, 
 * **Importância:** Essencial para a economia da Califórnia e para a segurança alimentar dos Estados Unidos.
 * **Ameaças:** Pesca excessiva, poluição por esgoto e produtos químicos, mudanças climáticas e acidificação dos oceanos.
 * **Referências:**
-    * **Artigo:** "The California Current System: A Review of Its Dynamics, Ecology, and Fisheries" (Bakun, 1990).
-    * **Livro:** "The California Current: Oceanographic Processes and Marine Resources" (Hickey, 1998).
+    * **Artigo:** "Oceanography of the Northern California Current Study Area" (NOAA).
 
 **Mar do Peru:**
 
@@ -272,8 +265,7 @@ A poluição por esgoto, plástico e turismo causa a morte de animais marinhos, 
 * **Importância:** Essencial para a economia do Peru e para a segurança alimentar da América do Sul.
 * **Ameaças:** Pesca excessiva, poluição por esgoto e produtos químicos, mudanças climáticas e acidificação dos oceanos.
 * **Referências:**
-    * **Artigo:** "The Humboldt Current System: A Review of Its Dynamics, Ecology, and Fisheries" (Guzman et al., 2009).
-    * **Livro:** "The Humboldt Current System: A Synthesis of Its Dynamics, Ecology, and Fisheries" (Guzman et al., 2018).
+    * **Artigo:** "The Humboldt Current System: Ecosystem components and processes, fisheries, and sediment studies" (ScienseDirect).
 
 ![Mar do Peru](imagens/mar-peru.jpg)
 
@@ -283,8 +275,8 @@ A poluição por esgoto, plástico e turismo causa a morte de animais marinhos, 
 * **Importância:** Abriga uma rica biodiversidade e é um importante destino turístico.
 * **Ameaças:** Poluição por esgoto e produtos químicos, perda de habitat, desenvolvimento urbano e mudanças climáticas.
 * **Referências:**
-    * **Artigo:** "The Everglades: A Critical Review of Its Ecology, Restoration, and Future" (Davis & Ogden, 2010).
-    * **Livro:** "The Everglades: A History of the River of Grass" (Douglas, 2002).
+    * **Artigo:** " Independent Scientific Review of Everglades Restoration Progress" (National Academies).
+    * **Livro:** "The Everglades: River of Grass" (by Marjory Stoneman Douglas (Author), Michael Grunwald (Afterword)).
 
 ![Everglades da Flórida](imagens/everglades-florida.jpg)
 
@@ -294,8 +286,8 @@ A poluição por esgoto, plástico e turismo causa a morte de animais marinhos, 
 * **Importância:** Protege as costas da erosão, regula o clima e sustenta a pesca.
 * **Ameaças:** Desmatamento, poluição por esgoto e produtos químicos, pesca excessiva e mudanças climáticas.
 * **Referências:**
-    * **Artigo:** "The Sundarbans: A Review of Its Ecology, Conservation, and Management" (Chaudhuri et al., 2010).
-    * **Livro:** "The Sundarbans: A World Heritage Site" (Chaudhuri, 2018).
+    * **Artigo:** "Protecting The Precious Sundarbans: A Comprehensive Review of Biodiversity, Threats and Conservation Strategies In The Mangrove Ecosystem" (by Aloke Saha, Chandan Sarkar).
+    * **Artigo:** "The Sundarbans" (UNESCO).
 
 ![Sundarbans](imagens/sundarban.jpg)
 
@@ -305,8 +297,9 @@ A poluição por esgoto, plástico e turismo causa a morte de animais marinhos, 
 * **Importância:** Abriga uma rica biodiversidade e é um importante centro econômico.
 * **Ameaças:** Poluição por esgoto e produtos químicos, desenvolvimento urbano, agricultura intensiva e mudanças climáticas.
 * **Referências:**
-    * **Artigo:** "The Chesapeake Bay: A Review of Its Ecology, Restoration, and Future" (Boesch et al., 2001).
-    * **Livro:** "The Chesapeake Bay: A History of the River of Life" (Cronin, 2003).
+    * **Artigo:** "Our History - Chesapeake Bay Program" (chesapeakbay.net).
+    * **Livro:** "A READING LIST OF BOOKS ABOUT THE CHESAPEAKE BAY WATERSHED" (ALLIANCE for the Chesapeake Bay).
+    * **Artigo:** "Bay History" (Maryland Sea Grant).
 
 ![Baía de Chesapeake](imagens/baia-chesapeake.jpg)
 
@@ -316,8 +309,7 @@ A poluição por esgoto, plástico e turismo causa a morte de animais marinhos, 
 * **Importância:** Centro de pesquisa científica e fonte de recursos naturais.
 * **Ameaças:** Mudanças climáticas, derretimento do gelo, poluição por petróleo e produtos químicos, pesca excessiva e desenvolvimento industrial.
 * **Referências:**
-    * **Artigo:** "The Arctic: A Review of Its Ecology, Climate Change, and Future" (IPCC, 2013).
-    * **Livro:** "The Arctic: A Changing Environment" (Arctic Council, 2017).
+    * **Artigo:** "Arctic climate change and its impacts on the ecology of the North Atlantic." (Charles Greene, A. J. Pershing, Thomas M Cronin)
 
 ![Ártico](imagens/artico.jpg)
 
@@ -327,8 +319,7 @@ A poluição por esgoto, plástico e turismo causa a morte de animais marinhos, 
 * **Importância:** Centro de pesquisa científica e fonte de recursos naturais.
 * **Ameaças:** Mudanças climáticas, derretimento do gelo, poluição por petróleo e produtos químicos, pesca excessiva e turismo descontrolado.
 * **Referências:**
-    * **Artigo:** "The Antarctic: A Review of Its Ecology, Climate Change, and Future" (SCAR, 2018).
-    * **Livro:** "Antarctica: A Global Asset" (SCAR, 2019).
+    * **Artigo:** "Antarctic Climate Change and the Environment: A Decadal Synopsis and Recommendations for Action" (SCAR).
 
 ![Antártida](imagens/antartida.jpg)
 
