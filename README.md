@@ -49,6 +49,7 @@ Preço do sensor: 5000
 Neste caso, o código irá distribuir 20 sensores (100000 / 5000 = 20) de forma eficiente, priorizando as áreas de maior relevância ambiental.
 
 **Exemplos em imagem:**
+
 ![Exemplo tela](imagens/exemplo-tela.png)
 ![Exemplo de uso](imagens/exemplo-uso1.png)
 ![Exemplo pop-up](imagens/exemplo-uso2.png)
