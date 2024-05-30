@@ -122,6 +122,10 @@ Neste caso, o código irá distribuir 20 sensores (100000 / 5000 = 20) de forma 
     - O código usa a projeção `Mollweide` para representar o mapa global, pois é uma projeção que preserva as áreas, o que é importante para representar corretamente a distribuição dos sensores.
 
 
+**Conclusão:**
+
+Este código demonstra um exemplo simples de um sistema de simulação de configuração de sensores oceânicos, considerando restrições de orçamento, áreas de prioridade e distância mínima entre sensores. O código pode ser adaptado para incluir mais recursos, como simular o movimento dos sensores, incorporar dados ambientais (temperatura, salinidade, etc.) ou criar interfaces gráficas mais complexas.
+
 
 ## Projeção Cartográfica Utilizada: Mollweide
 
@@ -153,7 +157,7 @@ Existem outras projeções cartográficas que podem ser usadas para representar 
 A poluição aquática é uma ameaça generalizada e exige atenção em todos os locais do oceano. No entanto, alguns pontos merecem atenção especial devido à sua sensibilidade e importância ecológica:
 
 
-* **Locais Específicos do Oceano que Exigem Maior Atenção:**
+### Locais Específicos do Oceano que Exigem Maior Atenção:
 
 Aqui estão alguns locais específicos do oceano que exigem atenção especial devido à poluição aquática, com referências de artigos e livros para comprovar as afirmações:
 
@@ -166,7 +170,7 @@ Aqui estão alguns locais específicos do oceano que exigem atenção especial d
     * **Artigo:** "Climate change and the Great Barrier Reef: a complex and challenging issue" (Hoegh-Guldberg et al., 2017).
     * **Livro:** "The Great Barrier Reef: A History" (Hutchings, 2018).
 
-![Grande Barreira de Coral](imagens/grande-barreira-coral.jpg)
+![Grande Barreira de Corais, Austrália](imagens/grande-barreira-de-corais.jpg)
 
 É o maior recife de coral do mundo, abrigando uma biodiversidade excepcional e desempenhando um papel crucial na proteção costeira e na economia australiana. A ameaça do branqueamento de corais, causada pelo aquecimento global e pela poluição, coloca em risco a sobrevivência do recife e de toda a sua rica fauna e flora.
 
@@ -218,7 +222,7 @@ A poluição por esgoto, agricultura e indústria causa a morte de animais marin
     * **Artigo:** "Pollution in the Ganges River: a critical review" (Kumar et al., 2017).
     * **Livro:** "The Ganges: A River of Hope" (Mitra, 2018).
 
-![Delta do Rio Ganges](imagens/delta-rio-ganges.jpg)
+![Delta do Rio Ganges](imagens/rio-ganges.jpg)
 
 A poluição por esgoto, plástico e turismo causa a morte de animais marinhos, a contaminação da cadeia alimentar e a perda de habitat, impactando a biodiversidade e o turismo. A necessidade de ações coordenadas para reduzir a poluição e proteger o ecossistema marinho é fundamental.
 
@@ -231,7 +235,7 @@ A poluição por esgoto, plástico e turismo causa a morte de animais marinhos, 
     * **Artigo:** "The Coral Triangle: A Global Centre of Marine Biodiversity" (Burke et al., 2011).
     * **Livro:** "Reefs at Risk Revisited: A Global Analysis of Threats to Coral Reefs" (Burke et al., 2011).
 
-![Triângulo dos Corais](imagens/triangulo-corais.jpg)
+![Triângulo dos Corais](imagens/triangulo-de-corais.jpg)
 
 **Arquipélago de Galápagos:**
 
@@ -242,7 +246,7 @@ A poluição por esgoto, plástico e turismo causa a morte de animais marinhos, 
     * **Artigo:** "The Galapagos Islands: A Unique Natural Laboratory for Conservation" (Ceballos et al., 2015).
     * **Livro:** "Galapagos: A Natural History" (Harris, 2006).
 
-![Arquipélago de Galápagos](imagens/galapagos.jpg)
+![Arquipélago de Galápagos](imagens/arquipelago-galapagos.jpg)
 
 **Afloramento da Costa Oeste da África:**
 
@@ -282,7 +286,7 @@ A poluição por esgoto, plástico e turismo causa a morte de animais marinhos, 
     * **Artigo:** "The Everglades: A Critical Review of Its Ecology, Restoration, and Future" (Davis & Ogden, 2010).
     * **Livro:** "The Everglades: A History of the River of Grass" (Douglas, 2002).
 
-![Everglades da Flórida](imagens/everglades.jpg)
+![Everglades da Flórida](imagens/everglades-florida.jpg)
 
 **Sundarbans:**
 
@@ -328,11 +332,6 @@ A poluição por esgoto, plástico e turismo causa a morte de animais marinhos, 
 
 ![Antártida](imagens/antartida.jpg)
 
-
-
-**Conclusão:**
-
-Este código demonstra um exemplo simples de um sistema de simulação de configuração de sensores oceânicos, considerando restrições de orçamento, áreas de prioridade e distância mínima entre sensores. O código pode ser adaptado para incluir mais recursos, como simular o movimento dos sensores, incorporar dados ambientais (temperatura, salinidade, etc.) ou criar interfaces gráficas mais complexas.
 
 
 
