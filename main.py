@@ -48,32 +48,32 @@ def define_sensores(distancia_minima_sensores, sensores_disponiveis, locais):
         longitudes_aleatorias = []
 
         while sensores_disponiveis > 0:
-                # Para cada tentativa de posicionar um sensor, tenta colocar sensores novamente nas áreas de prioridade.
-                for local in locais.values():
-                        for coordenadas in local.values():
-                                if sensores_disponiveis > 0:
-                                        # Gerar coordenadas aleatórias dentro dos limites especificados para as áreas prioritárias
-                                        sensor_lat = random.uniform(coordenadas[0][0], coordenadas[0][1])
-                                        sensor_lon = random.uniform(coordenadas[1][0], coordenadas[1][1])
+            # Para cada tentativa de posicionar um sensor no oceano, tenta colocar sensores novamente nas áreas de prioridade.
+            for local in locais.values():
+                for coordenadas in local.values():
+                    if sensores_disponiveis > 0:
+                        # Gerar coordenadas aleatórias dentro dos limites especificados para as áreas prioritárias
+                        sensor_lat = random.uniform(coordenadas[0][0], coordenadas[0][1])
+                        sensor_lon = random.uniform(coordenadas[1][0], coordenadas[1][1])
 
-                                        # Verificar se a posição é válida (distância mínima entre sensores e estar no oceano)
-                                        if verifica_distancia(sensor_lat, sensor_lon, latitude_sensores, longitude_sensores, distancia_minima_sensores) and esta_no_oceano(sensor_lat, sensor_lon):
-                                                latitude_sensores.append(sensor_lat)
-                                                longitude_sensores.append(sensor_lon)
-                                                sensores_disponiveis -= 1
-                                else:
-                                        break
+                        # Verificar se a posição é válida (distância mínima entre sensores e estar no oceano)
+                        if verifica_distancia(sensor_lat, sensor_lon, latitude_sensores, longitude_sensores, distancia_minima_sensores) and esta_no_oceano(sensor_lat, sensor_lon):
+                            latitude_sensores.append(sensor_lat)
+                            longitude_sensores.append(sensor_lon)
+                            sensores_disponiveis -= 1
+                    else:
+                        break
                                 
                 # Se ainda houver sensores disponíveis, colocar em áreas aleatórias no oceano
-                if sensores_disponiveis > 0:
-                        lat_aleatoria = random.uniform(-90, 90)
-                        lon_aleatoria = random.uniform(-180, 180)
-                        if verifica_distancia(lat_aleatoria, lon_aleatoria, latitude_sensores, longitude_sensores, distancia_minima_sensores) and esta_no_oceano(lat_aleatoria, lon_aleatoria):
-                                latitudes_aleatorias.append(lat_aleatoria)
-                                longitudes_aleatorias.append(lon_aleatoria)
-                                sensores_disponiveis -= 1
-                else:
-                        break
+            if sensores_disponiveis > 0:
+                lat_aleatoria = random.uniform(-90, 90)
+                lon_aleatoria = random.uniform(-180, 180)
+                if verifica_distancia(lat_aleatoria, lon_aleatoria, latitude_sensores, longitude_sensores, distancia_minima_sensores) and esta_no_oceano(lat_aleatoria, lon_aleatoria):
+                    latitudes_aleatorias.append(lat_aleatoria)
+                    longitudes_aleatorias.append(lon_aleatoria)
+                    sensores_disponiveis -= 1
+            else:
+                break
         # Informar a quantidade de sensores colocados em áreas prioritárias
         print("Quantidade de sensores em areas prioridade: ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------")
         print(len(latitude_sensores))
