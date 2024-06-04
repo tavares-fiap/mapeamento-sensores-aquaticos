@@ -62,9 +62,6 @@ Neste caso, o código irá distribuir 20 sensores (100000 / 5000 = 20) de forma 
 
     - Esta função calcula a distância euclidiana (distância em linha reta) entre dois pontos geográficos, especificados pelas suas latitudes e longitudes. A fórmula utilizada é a fórmula da distância euclidiana bidimensional:
     - A fórmula utilizada é a fórmula da distância euclidiana bidimensional: `math.sqrt((lat2 - lat1)**2 + (lon2 - lon1)**2)`.
-
-\[ \text{distância} = \sqrt{(\text{lat2} - \text{lat1})^2 + (\text{lon2} - \text{lon1})^2} \]
- 
     - A função recebe as coordenadas de dois pontos (latitude e longitude) como entrada e retorna a distância entre eles.
 
 #### Observação:
