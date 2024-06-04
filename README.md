@@ -71,7 +71,7 @@ Neste caso, o código irá distribuir 20 sensores (100000 / 5000 = 20) de forma 
 
 Embora a Fórmula de Haversine seja mais precisa para calcular distâncias entre pontos geográficos na superfície da Terra, ela é mais complexa e computacionalmente mais intensiva. A Fórmula de Haversine leva em consideração a curvatura da Terra e é recomendada para distâncias maiores ou aplicações onde a precisão é crucial.
 
-Neste projeto, optamos por utilizar a fórmula da distância euclidiana bidimensional para simplificar o cálculo e reduzir a complexidade do código. Esta abordagem é suficiente para as necessidades do nosso projeto, onde a precisão absoluta das distâncias não é um requisito crítico.
+Neste projeto, optamos por utilizar a fórmula da distância euclidiana bidimensional para simplificar o cálculo e reduzir a complexidade do código. Esta abordagem é suficiente para a ilustração do nosso projeto.
 
 
 ![calcula_distancia(lat1, lon1, lat2, lon2)](imagens/func-calc-distancia.png)
