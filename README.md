@@ -60,10 +60,24 @@ Neste caso, o código irá distribuir 20 sensores (100000 / 5000 = 20) de forma 
 
 **1. `calcula_distancia(lat1, lon1, lat2, lon2)`:**
 
-    - Esta função calcula a distância euclidiana (distância em linha reta) entre dois pontos geográficos, especificados pelas suas latitudes e longitudes. 
+    - Esta função calcula a distância euclidiana (distância em linha reta) entre dois pontos geográficos, especificados pelas suas latitudes e longitudes. A fórmula utilizada é a fórmula da distância euclidiana bidimensional:
     - A fórmula utilizada é a fórmula da distância euclidiana bidimensional: `math.sqrt((lat2 - lat1)**2 + (lon2 - lon1)**2)`.
+
+\[ \text{distância} = \sqrt{(\text{lat2} - \text{lat1})^2 + (\text{lon2} - \text{lon1})^2} \]
+ 
     - A função recebe as coordenadas de dois pontos (latitude e longitude) como entrada e retorna a distância entre eles.
+
+#### Observação:
+
+Embora a Fórmula de Haversine seja mais precisa para calcular distâncias entre pontos geográficos na superfície da Terra, ela é mais complexa e computacionalmente mais intensiva. A Fórmula de Haversine leva em consideração a curvatura da Terra e é recomendada para distâncias maiores ou aplicações onde a precisão é crucial.
+
+Neste projeto, optamos por utilizar a fórmula da distância euclidiana bidimensional para simplificar o cálculo e reduzir a complexidade do código. Esta abordagem é suficiente para as necessidades do nosso projeto, onde a precisão absoluta das distâncias não é um requisito crítico.
+
+
 ![calcula_distancia(lat1, lon1, lat2, lon2)](imagens/func-calc-distancia.png)
+
+
+
 
 **2. `verifica_distancia(lat1, lon1, lat2, lon2, distancia_minima_sensores)`:**
 
