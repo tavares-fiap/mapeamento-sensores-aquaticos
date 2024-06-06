@@ -1,5 +1,6 @@
 #### Pedro Henrique Pedrosa Tavares RM97877
 #### Guilherme Rocha Bianchini RM97974
+#### Vinicius do Carmo Fonseca Freitas RM97599
 
 ## Distribuição de Sensores de Poluição Oceânicos
 
