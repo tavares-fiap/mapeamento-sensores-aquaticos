@@ -1,7 +1,3 @@
-#### Pedro Henrique Pedrosa Tavares RM97877
-#### Guilherme Rocha Bianchini RM97974
-#### Vinicius do Carmo Fonseca Freitas RM97599
-
 ## Distribuição de Sensores de Poluição Oceânicos
 
 Este código Python implementa um sistema para simular a configuração de sensores oceânicos, considerando restrições de orçamento, áreas de prioridade e o alcance de cada sensor (calcula distância mínima entre os sensores para evitar desperdicio). O código utiliza bibliotecas como cartopy, matplotlib, shapely, e tkinter para criar um mapa interativo e gerar visualizações dos sensores posicionados.
@@ -336,7 +332,9 @@ A poluição por esgoto, plástico e turismo causa a morte de animais marinhos, 
 ![Antártida](imagens/antartida.jpg)
 
 
+## Autor
 
+- [Pedro Tavares](https://www.linkedin.com/in/pedro-tavares-7ab626297)
 
 ## Links importantes:
 
